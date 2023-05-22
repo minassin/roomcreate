@@ -1,0 +1,11 @@
+D:\soft\c#\类库\RoomCreate\bin\Debug\RoomCreate.exe.config
+D:\soft\c#\类库\RoomCreate\bin\Debug\RoomCreate.exe
+D:\soft\c#\类库\RoomCreate\bin\Debug\RoomCreate.pdb
+D:\soft\c#\类库\RoomCreate\obj\Debug\RoomCreate.csproj.AssemblyReference.cache
+D:\soft\c#\类库\RoomCreate\obj\Debug\RoomCreate.csproj.SuggestedBindingRedirects.cache
+D:\soft\c#\类库\RoomCreate\obj\Debug\RoomCreate.Properties.Resources.resources
+D:\soft\c#\类库\RoomCreate\obj\Debug\RoomCreate.csproj.GenerateResource.cache
+D:\soft\c#\类库\RoomCreate\obj\Debug\RoomCreate.csproj.CoreCompileInputs.cache
+D:\soft\c#\类库\RoomCreate\obj\Debug\RoomCreate.exe
+D:\soft\c#\类库\RoomCreate\obj\Debug\RoomCreate.pdb
+D:\soft\c#\类库\RoomCreate\obj\Debug\RoomCreate.RoomCreate.resources
